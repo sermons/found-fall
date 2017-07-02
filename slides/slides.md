@@ -1,3 +1,4 @@
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 ## One Foundation (2)
 # The Fall of Man
 
@@ -23,3 +24,32 @@
     + **Faith** in Christ <span class="ref">(wk 3-4)</span>
     + **Life** and Conduct <span class="ref">(wk 4)</span>
   1. **Consummation** <span class="ref">(wk 4-5)</span>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+## Week 2: The Fall of Man
+
+---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+## Outline
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+## Outline
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+Closing Scripture
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" class="empty" -->
