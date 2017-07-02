@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# One Foundation: The Fall and the Plan of Redemption (2/5)
+## Romans 3:23-24
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel#info=devDependencies)
+[![Build status](https://travis-ci.org/sermons/found-fall.svg)](https://travis-ci.org/sermons/found-fall)
+[![Node deps](https://david-dm.org/sermons/found-fall.svg)](https://david-dm.org/sermons/found-fall)
+[![Node devDeps](https://david-dm.org/sermons/found-fall/dev-status.svg)](https://david-dm.org/sermons/found-fall#info=devDependencies)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
