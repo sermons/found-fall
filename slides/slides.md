@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 ## One Foundation (2)
-# The Fall of Man
+# The Fall and the <br/> Plan of Redemption
 
 <div class="ref">
 [(Elbing Catechism)](https://archive.org/details/catechismorbrief00elbi)
@@ -27,7 +27,7 @@
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
-## Week 2: The Fall of Man
+## Week 2: Fall and Redemption
 
 ---
 <!-- .slide: data-background="white" -->
