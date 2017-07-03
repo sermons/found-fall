@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 ## One Foundation (2)
-# The Fall and the <br/> Plan of Redemption
+# The Fall of Man <br/> and the Plan <br/> of Redemption
 
 <div class="ref">
 [(Elbing Catechism)](https://archive.org/details/catechismorbrief00elbi)
