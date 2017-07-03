@@ -29,6 +29,30 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 ## Week 2: Fall and Redemption
 
+>>>
+TWO— THE FALL OF MAN INTO SIN
+I. The Condition of Man before the Fall
+II. The Fall of Man
+III. The Results of the Fall
+
+PART THREE—THE REDEMPTION
+SECTION 1.
+(Redemption — Divine Provision.)
+
+Chapter 1. God’s Plan of Redemption
+I. The Promise to Adam and the Patriarchs
+II.  The Law as a SchoolMaster unto Christ
+III. Predictions Concerning Christ
+
+Chapter 2.  Redemption through Christ
+I. The Birth of Jesus Christ
+II.  The Baptism and Public Ministry of Our Lord
+III.  The Suffering and Death of Our Redeemer
+IV. Christ’s Resurrection and Ascension
+V. The Redeemer’s Threefold Office
+VI. The Sending of the Holy Spirit
+VII. Grace for All
+
 ---
 <!-- .slide: data-background="white" -->
 # Q1
