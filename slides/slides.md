@@ -8,12 +8,6 @@
 </div>
 
 ---
-<!-- .slide: data-background="white" -->
-## Who is **God**? <small>*(theology)*</small>
-## Who are **we**? <small>*(anthropology)*</small>
-## How are we **saved**? <small>*(soteriology)*</small>
-
----
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 ## One Foundation <span class="ref">(Elbing)</span>
 1. **Creation** (who *God* is) <span class="ref">(wk 1)</span>
