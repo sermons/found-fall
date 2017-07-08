@@ -13,11 +13,11 @@
 1. **Creation** (who *God* is) <span class="ref">(wk 1)</span>
 1. **Fall** (who *we* are) <span class="ref">(wk 2)</span>
 1. **Redemption** (how we are *saved*)
-  1. Divine **Provision** <span class="ref">(wk 2-3)</span>
+  1. Divine **Provision** <span class="ref">(wk 2)</span>
   1. Human **Response**
-    + **Faith** in Christ <span class="ref">(wk 3-4)</span>
+    + **Faith** in Christ <span class="ref">(wk 3)</span>
     + **Life** and Conduct <span class="ref">(wk 4)</span>
-  1. **Consummation** <span class="ref">(wk 4-5)</span>
+  1. **Consummation** <span class="ref">(wk 5)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
