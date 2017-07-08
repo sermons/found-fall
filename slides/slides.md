@@ -23,11 +23,8 @@
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
-## Week 2: Fall and Redemption
+## Wk 2: Fall &amp; Redemption
 1. The **Fall** of Man
-  1. Prior to the Fall
-  1. The Fall of Man
-  1. Results of the Fall
 1. **Redemption**: Divine Provision
   1. God's **Plan** of Redemption
     + The Promise to Adam
@@ -38,12 +35,183 @@
     + The Redeemer and the Holy Spirit
     + Grace for All
 
+---
+## The Fall of Man
+1. **Prior** to the Fall
+1. The **Fall** of Man
+1. **Results** of the Fall
+
+>>>
++ Our world is full of **evil**
+  + Did God **purposely** make it so?
++ Did God create **evil**?
+
+---
+God saw **everything** that he had made, <br/>
+and behold, it was **very good**.
+
+<div class="caption">
+Genesis 1:31a (ESV)
+</div>
+
+>>>
++ that includes **man**!
+
+---
+So God **created** man in his own image, <br/>
+in the **image of God** he created him; <br/>
+**male and female** he created them.
+
+<div class="caption">
+Genesis 1:27 (ESV)
+</div>
+
+>>>
++ **unique** to man
+  + not **evolved** animal
+
+---
+## The Fall of Man
+1. Prior to the Fall
+1. **The Fall of Man**
+1. Results of the Fall
+
+>>>
++ Did God **cause** them to sin?
+  + God's command:
+
+---
+You may surely eat of **every tree** of the garden,
+
+but of the tree of the **knowledge**  <br/>
+of **good and evil** you shall not eat,
+
+for in the day that you **eat** of it <br/>
+you shall surely **die**.
+
+<div class="caption">
+Genesis 2:16-17 (ESV)
+</div>
+
+>>>
++ why even put that tree there?
+  + love requires **choice**
++ **knowledge**: judgment, to **decide**
+  + judge for self what is good + evil
++ infinitive absolute (intensive):
+  + "eating you eat, dying you die"
+  + clear **consequences**
+  + **warning**: out of **love**
++ How did **Satan** distort this?
+
+---
+"Did God **actually** say,
+‘You shall not eat of any tree in the garden’?"
+
+<div class="caption">
+Genesis 3:1 (ESV)
+</div>
+
+>>>
++ **doubt** / question God's Word
++ and **misquoted** Him!
+  + to be **unreasonably** severe
+  + forget God's abundant **provision**
++ what **else** did Satan say?
+
+---
+"You will **not** surely die.
+
+For **God knows** that when you eat of it <br/>
+your **eyes** will be opened, <br/>
+and you will be **like God**, knowing good and evil."
+
+<div class="caption">
+Genesis 3:4 (ESV)
+</div>
+
+>>>
++ directly **contradicts** God
++ plants **suspicion** of God's intentions
+  + conspiracy, untapped **power**
+  + that God is secretly **afraid**
++ eyes opened: hidden **knowledge**
++ like God: **usurp** God's authority
+
+---
+## The Fall of Man
+1. Prior to the Fall
+1. The Fall of Man
+1. **Results of the Fall**
+
+>>>
++ But that was just **Adam+Eve**'s problem
+  + Doesn't **affect** us, right?
+
+---
+Therefore, just as **sin** came into the world  <br/>
+through **one man**, and **death** through sin,  <br/>
+and so death spread to **all men** because **all sinned**
+
+<div class="caption">
+Romans 5:12 (ESV)
+</div>
+
+>>>
++ connect **sin** + **death**:
+  + both **physical** and **spiritual**
++ all sinned: not just **active** (commission)
+  + but **falling short** of God's holiness:
+
+---
+For all have **sinned** and **fall short** of the glory of God, <br/>
+and are **justified** by his grace as a **gift**, <br/>
+through the **redemption** that is in Christ Jesus
+
+<div class="caption">
+Romans 3:23-24 (ESV)
+</div>
+
+---
+For the **creation** was subjected to **futility**,  <br/>
+not willingly, but because of him who **subjected** it, <br/>
+in hope that the creation itself  <br/>
+will be set free from its **bondage to corruption**  <br/>
+and obtain the **freedom** of the glory of the **children of God**.
+
+<div class="caption">
+Romans 8:20-21 (ESV)
+</div>
+
+>>>
++ connect **sin** + **death**
+  + **mankind** + **creation**
++ **Adam** sinned &rArr; **all** sinned
++ &rArr; **creation** bound to corruption
++ &rArr; **Christ** saves &rArr; **children of God** saved
++ &rArr; **creation** freed in glory
+
+---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+## Outline: Plan
+
 >>>
 Chapter 1. God’s Plan of Redemption
 I. The Promise to Adam and the Patriarchs
 II.  The Law as a SchoolMaster unto Christ
 III. Predictions Concerning Christ
 
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+## Outline: Christ
+
+>>>
 Chapter 2.  Redemption through Christ
 I. The Birth of Jesus Christ
 II.  The Baptism and Public Ministry of Our Lord
@@ -54,29 +222,18 @@ VI. The Sending of the Holy Spirit
 VII. Grace for All
 
 ---
-
-
----
-<!-- .slide: data-background="white" -->
-# Q1
-
----
-## Outline
-
----
-<!-- .slide: data-background="white" -->
-# Q2
-
----
-## Outline
-
----
 <!-- .slide: data-background="white" -->
 # Q3
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
-Closing Scripture
+For all have **sinned** and **fall short** of the glory of God, <br/>
+and are **justified** by his grace as a **gift**, <br/>
+through the **redemption** that is in Christ Jesus
+
+<div class="caption">
+Romans 3:23-24 (ESV)
+</div>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" class="empty" -->
