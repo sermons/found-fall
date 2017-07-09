@@ -340,14 +340,18 @@ Luke 24:44 (ESV)
   1. Christ’s Resurrection and Ascension
 
 ---
+<!-- .slide: style="font-size: 0.8rem" -->
+
 I believe in **Jesus Christ**, God's only **Son**, our Lord,
 
 who was conceived by the **Holy Spirit**, <br/>
-**born** of the Virgin Mary, **suffered** under Pontius Pilate, <br/>
+**born** of the Virgin Mary, <br/>
+**suffered** under Pontius Pilate, <br/>
 was **crucified**, died, and was buried; <br/>
 he descended to the **dead**.
 
-On the third day he **rose** again; he **ascended** into heaven, <br/>
+On the third day he **rose** again; <br/>
+he **ascended** into heaven, <br/>
 he is **seated** at the right hand of the Father, <br/>
 and he will come to **judge** the living and the dead.
 
