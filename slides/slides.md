@@ -343,7 +343,7 @@ Galatians 3:24-26 (ESV)
 1. Redemption: through *Christ*
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
 ## Jesus Fulfils Prophecy
 Everything **written** about me  <br/>
 in the **Law** of Moses and the **Prophets** <br/>
