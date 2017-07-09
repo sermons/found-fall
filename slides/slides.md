@@ -328,18 +328,15 @@ Luke 24:44 (ESV)
 1. Redemption: God's *Plan*
 1. **Redemption: through Christ**
   1. The **Life** of Jesus
+    + Birth &rarr; Ministry &rarr; Death &rarr; Resurrection
   1. The *Redeemer* and the *Holy Spirit*
   1. *Grace* for All
 
 >>>
-Chapter 2.  Redemption through Christ
 I. The Birth of Jesus Christ
 II.  The Baptism and Public Ministry of Our Lord
 III.  The Suffering and Death of Our Redeemer
 IV. Christ’s Resurrection and Ascension
-V. The Redeemer’s Threefold Office
-VI. The Sending of the Holy Spirit
-VII. Grace for All
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
@@ -350,6 +347,10 @@ VII. Grace for All
   1. The *Life* of Jesus
   1. **The Redeemer and the Holy Spirit**
   1. *Grace* for All
+
+>>>
+V. The Redeemer’s Threefold Office
+VI. The Sending of the Holy Spirit
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
