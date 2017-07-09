@@ -263,6 +263,27 @@ Genesis 3:15 (NASB)
 1. You shall not **covet** ... anything that is your neighbor's
 
 ---
+For the **whole law** is fulfilled in **one word**:
+
+“You shall **love your neighbor** as yourself.”
+
+<div class="caption">
+Galatians 5:14 (ESV)
+</div>
+
+---
+The **law** was our **guardian** until Christ came, <br/>
+in order that we might be justified by faith.
+
+But now that **faith** has come, <br/>
+we are **no longer** under a guardian, <br/>
+for in **Christ Jesus** you are all **sons of God**, through faith
+
+<div class="caption">
+Galatians 3:24-26 (ESV)
+</div>
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 ## Wk 2: Fall &amp; Redemption
 1. The *Fall* of Man
@@ -273,8 +294,20 @@ Genesis 3:15 (NASB)
 1. Redemption: through *Christ*
 
 ---
+Everything **written** about me  <br/>
+in the **Law** of Moses and the **Prophets** <br/>
+and the **Psalms** must be fulfilled.
+
+<div class="caption">
+Luke 24:44 (ESV)
+</div>
+
+>>>
++ OT: Law, Prophets, Psalms
+
+---
 <!-- .slide: data-background="white" -->
-# Q2
+# What in the **Old Testament** points to redemption in **Christ**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
