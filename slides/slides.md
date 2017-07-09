@@ -452,19 +452,19 @@ Hebrews 10:14 (ESV)
   1. *Grace* for All
 
 ---
-## The Redeemer’s Three-fold Office
-1. **Prophet**:
+## Redeemer’s Threefold Office
+1. **Prophet**: <br/>
   The Lord your God will raise up
-  for you a *prophet* like me, ... you shall *listen* to him
-  <span class="ref">(Dt 18:15, ESV)</span>
-1. **High Priest**:
+  for you a *prophet* like me, ... *listen* to him
+  <span class="ref">(Dt 18:15)</span>
+1. **High Priest**: <br/>
   Since we have a *great priest*
   over the house of God, let us *draw near*
-  <span class="ref">(Heb 10:21-22, ESV)</span>
-1. **King**:
+  <span class="ref">(Heb 10:21-22)</span>
+1. **King**: <br/>
   He will *reign* as king and act *wisely*
   And do *justice* and *righteousness* in the land
-  <span class="ref">(Jer 23:5, NASB)</span>
+  <span class="ref">(Jer 23:5)</span>
 
 ---
 ## Sending the Holy Spirit
@@ -472,7 +472,8 @@ The **Advocate**, the Holy Spirit, <br/>
 whom the **Father** will send in **my name**,
 
 will **teach** you all things <br/>
-and will **remind** you of everything I have said to you
+and will **remind** you <br/>
+of everything I have said to you
 
 <div class="ref">
 John 14:26 (NIV)
@@ -516,8 +517,9 @@ and that you are **not your own**?
 [God] desires **all** men to be **saved** <br/>
 and to come to the **knowledge** of the truth.
 
-For there is **one God**,  <br/>
-and **one mediator** also between God and men,  <br/>
+For there is **one God**, <br/>
+and **one mediator** also between God and men,
+
 the man **Christ Jesus**, <br/>
 who gave Himself as a **ransom for all**
 
@@ -534,7 +536,8 @@ who gave Himself as a **ransom for all**
 ## Turn and Live
 Have I any **pleasure** in the **death** of the wicked, <br/>
 declares the LORD God,  <br/>
-and not rather that he should **turn** from his way and **live**?
+and not rather that he should <br/>
+**turn** from his way and **live**?
 
 <div class="ref">
 Ezekiel 18:23 (ESV)
