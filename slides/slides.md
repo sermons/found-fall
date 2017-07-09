@@ -35,6 +35,7 @@
 + Did God create **evil**?
 
 ---
+## Created State of Man
 God saw **everything** that he had made, <br/>
 and behold, it was **very good**.
 
@@ -46,6 +47,7 @@ Genesis 1:31a (ESV)
 + that includes **man**!
 
 ---
+## Created in the Image of God
 So God **created** man in his own image, <br/>
 in the **image of God** he created him; <br/>
 **male and female** he created them.
@@ -73,6 +75,7 @@ Genesis 1:27 (ESV)
   + God's command:
 
 ---
+## God's Warning
 You may surely eat of **every tree** of the garden,
 
 but of the tree of the **knowledge**  <br/>
@@ -97,6 +100,7 @@ Genesis 2:16-17 (ESV)
 + How did **Satan** distort this?
 
 ---
+## Satan's Question
 "Did God **actually** say, <br/>
 ‘You shall not eat of any tree in the garden’?"
 
@@ -112,6 +116,7 @@ Genesis 3:1 (ESV)
 + what **else** did Satan say?
 
 ---
+## Satan's Lies
 "You will **not** surely die.
 
 For **God knows** that when you eat of it <br/>
@@ -146,6 +151,7 @@ Genesis 3:4 (ESV)
   + Doesn't **affect** us, right?
 
 ---
+## Death Came Through Sin
 Therefore, just as **sin** came into the world  <br/>
 through **one man**, and **death** through sin,  <br/>
 and so death spread to **all men** <br/>
@@ -162,6 +168,7 @@ Romans 5:12 (ESV)
   + but **falling short** of God's holiness:
 
 ---
+## No One Is Righteous
 For all have **sinned** <br/>
 and **fall short** of the glory of God
 
@@ -174,6 +181,7 @@ Romans 3:23 (ESV)
 + but all **creation**:
 
 ---
+## All Creation in Bondage
 For the **creation** was subjected to **futility**, ...
 
 in hope that the creation itself  <br/>
@@ -213,6 +221,7 @@ Romans 8:20-21 (ESV)
 + What was God's **plan** to redeem us?
 
 ---
+## God's Plan of Redemption
 For God **so loved** the world, <br/>
 that he **gave** his only Son, <br/>
 that whoever **believes** in him <br/>
@@ -228,6 +237,7 @@ John 3:16 (ESV)
 + forgiveness requires **sacrifice**
 
 ---
+## God's Promise to Adam &amp; Eve
 And I will put **enmity** <br/>
 Between you and the woman, <br/>
 And between **your seed** and **her seed**;
@@ -268,6 +278,7 @@ Genesis 3:15 (NASB)
 1. Not **covet** ... anything that is your neighbor's
 
 ---
+## Summary of the Law
 For the **whole law** is fulfilled in **one word**: <br/>
 “You shall **love your neighbor** as yourself.”
 
@@ -276,8 +287,9 @@ Galatians 5:14 (ESV)
 </div>
 
 ---
+## The Law as Tutor
 The **law** was our **guardian** until Christ came, <br/>
-in order that we might be justified by faith.
+in order that we might be **justified** by faith.
 
 But now that **faith** has come, <br/>
 we are **no longer** under a guardian,
@@ -300,6 +312,7 @@ Galatians 3:24-26 (ESV)
 1. Redemption: through *Christ*
 
 ---
+## Jesus Fulfils OT Prophecy
 Everything **written** about me  <br/>
 in the **Law** of Moses and the **Prophets** <br/>
 and the **Psalms** must be fulfilled.
@@ -369,6 +382,7 @@ Apostle's Creed, ~390 AD (excerpt)
 + imminent **return** as righteous Judge
 
 ---
+## Christ Our Propitiation
 All we like sheep have gone **astray**; <br/>
 we have turned — every one — to his **own way**;
 
