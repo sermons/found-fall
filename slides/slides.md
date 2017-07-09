@@ -526,7 +526,8 @@ Ezekiel 18:23 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# What did Jesus **do** for us?
+# Why couldn't we do it **ourselves**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
