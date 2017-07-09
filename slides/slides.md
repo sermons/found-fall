@@ -23,21 +23,11 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 ## Wk 2: Fall &amp; Redemption
 1. The **Fall** of Man
+  1. *Prior* to the Fall
+  1. The *Fall* of Man
+  1. *Results* of the Fall
 1. Redemption: God's **Plan**
-  1. The *Promise* to Adam
-  1. The *Law* as Tutor
-  1. The *Prophecies* of the Christ
 1. Redemption: through **Christ**
-  1. The *Life* of Jesus
-  1. The *Redeemer* and the *Holy Spirit*
-  1. *Grace* for All
-
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
-## 1. The Fall of Man
-1. **Prior** to the Fall
-1. The **Fall** of Man
-1. **Results** of the Fall
 
 >>>
 + Our world is full of **evil**
@@ -70,10 +60,13 @@ Genesis 1:27 (ESV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
-## 1. The Fall of Man
-1. Prior to the Fall
-1. **The Fall of Man**
-1. Results of the Fall
+## Wk 2: Fall &amp; Redemption
+1. The *Fall* of Man
+  1. *Prior* to the Fall
+  1. **The Fall of Man**
+  1. *Results* of the Fall
+1. Redemption: God's *Plan*
+1. Redemption: through *Christ*
 
 >>>
 + Did God **cause** them to sin?
@@ -140,10 +133,13 @@ Genesis 3:4 (ESV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
-## 1. The Fall of Man
-1. Prior to the Fall
-1. The Fall of Man
-1. **Results of the Fall**
+## Wk 2: Fall &amp; Redemption
+1. The *Fall* of Man
+  1. *Prior* to the Fall
+  1. The *Fall* of Man
+  1. **Results of the Fall**
+1. Redemption: God's *Plan*
+1. Redemption: through *Christ*
 
 >>>
 + But that was just **Adam+Eve**'s problem
@@ -203,15 +199,12 @@ Romans 8:20-21 (ESV)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 ## Wk 2: Fall &amp; Redemption
-1. The Fall of Man
+1. The *Fall* of Man
 1. **Redemption: God's Plan**
   1. The *Promise* to Adam
   1. The *Law* as Tutor
   1. The *Prophecies* of the Christ
-1. Redemption: through Christ
-  1. The Life of Jesus
-  1. The Redeemer and the Holy Spirit
-  1. Grace for All
+1. Redemption: through *Christ*
 
 >>>
 + Did man's **fall** catch God by **surprise**?
@@ -250,15 +243,22 @@ Genesis 3:15 (NASB)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 ## Wk 2: Fall &amp; Redemption
-1. The Fall of Man
-1. Redemption: God's Plan
-  1. The Promise to Adam
+1. The *Fall* of Man
+1. Redemption: God's *Plan*
+  1. The *Promise* to Adam
   1. **The Law as Tutor**
   1. The *Prophecies* of the Christ
-1. Redemption: through Christ
-  1. The Life of Jesus
-  1. The Redeemer and the Holy Spirit
-  1. Grace for All
+1. Redemption: through *Christ*
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+## Wk 2: Fall &amp; Redemption
+1. The *Fall* of Man
+1. Redemption: God's *Plan*
+  1. The *Promise* to Adam
+  1. The *Law* as Tutor
+  1. **The Prophecies of the Christ**
+1. Redemption: through *Christ*
 
 ---
 <!-- .slide: data-background="white" -->
@@ -267,12 +267,9 @@ Genesis 3:15 (NASB)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 ## Wk 2: Fall &amp; Redemption
-1. The **Fall** of Man
-1. Redemption: God's **Plan**
-  1. The *Promise* to Adam
-  1. The *Law* as Tutor
-  1. The *Prophecies* of the Christ
-1. Redemption: through **Christ**
+1. The *Fall* of Man
+1. Redemption: God's *Plan*
+1. **Redemption: through Christ**
   1. The *Life* of Jesus
   1. The *Redeemer* and the *Holy Spirit*
   1. *Grace* for All
@@ -286,6 +283,26 @@ IV. Christ’s Resurrection and Ascension
 V. The Redeemer’s Threefold Office
 VI. The Sending of the Holy Spirit
 VII. Grace for All
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+## Wk 2: Fall &amp; Redemption
+1. The *Fall* of Man
+1. Redemption: God's *Plan*
+1. Redemption: through *Christ*
+  1. The *Life* of Jesus
+  1. **The Redeemer and the Holy Spirit**
+  1. *Grace* for All
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+## Wk 2: Fall &amp; Redemption
+1. The *Fall* of Man
+1. Redemption: God's *Plan*
+1. Redemption: through *Christ*
+  1. The *Life* of Jesus
+  1. The *Redeemer* and the *Holy Spirit*
+  1. **Grace for All**
 
 ---
 <!-- .slide: data-background="white" -->
