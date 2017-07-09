@@ -35,6 +35,7 @@
 + Did God create **evil**?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/earth.jpg" -->
 ## Original State of Man
 God saw **everything** that he had made, <br/>
 and behold, it was **very good**.
@@ -47,6 +48,7 @@ Genesis 1:31a (ESV)
 + that includes **man**!
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## In the Image of God
 So God **created** man in his own image, <br/>
 in the **image of God** he created him; <br/>
@@ -75,6 +77,7 @@ Genesis 1:27 (ESV)
   + God's command:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
 ## God's Warning
 You may surely eat of **every tree** of the garden,
 
@@ -100,6 +103,7 @@ Genesis 2:16-17 (ESV)
 + How did **Satan** distort this?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bPldxRHkTzw-snake.jpg" -->
 ## Satan's Question
 "Did God **actually** say, <br/>
 ‘You shall not eat of any tree in the garden’?"
@@ -116,6 +120,7 @@ Genesis 3:1 (ESV)
 + what **else** did Satan say?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bPldxRHkTzw-snake.jpg" -->
 ## Satan's Lies
 "You will **not** surely die.
 
@@ -151,6 +156,7 @@ Genesis 3:4 (ESV)
   + Doesn't **affect** us, right?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bSYRuzEaT5k-cemetery.jpg" -->
 ## Death Through Sin
 Therefore, just as **sin** came into the world  <br/>
 through **one man**, and **death** through sin,  <br/>
@@ -168,6 +174,7 @@ Romans 5:12 (ESV)
   + but **falling short** of God's holiness:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
 ## No One Is Righteous
 For all have **sinned** <br/>
 and **fall short** of the glory of God
@@ -462,8 +469,8 @@ Hebrews 10:14 (ESV)
   over the house of God, let us *draw near*
   <span class="ref">(Heb 10:21-22)</span>
 1. **King**: <br/>
-  He will *reign* as king and act *wisely*
-  And do *justice* and *righteousness* in the land
+  He will *reign* as king and act *wisely*,
+  and do *justice* and *righteousness* in the land
   <span class="ref">(Jer 23:5)</span>
 
 ---
