@@ -251,6 +251,18 @@ Genesis 3:15 (NASB)
 1. Redemption: through *Christ*
 
 ---
+1. You shall have **no other gods** before me
+1. You shall not make for yourself a carved **image**
+1. You shall not take the **name of the LORD** your God in vain
+1. Remember the **Sabbath day**, to keep it holy
+1. Honor your **father** and your **mother**
+1. You shall not **murder**
+1. You shall not commit **adultery**
+1. You shall not **steal**
+1. You shall not bear **false witness** against your neighbor
+1. You shall not **covet** ... anything that is your neighbor's
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 ## Wk 2: Fall &amp; Redemption
 1. The *Fall* of Man
@@ -311,7 +323,8 @@ VII. Grace for All
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 For all have **sinned** <br/>
-and **fall short** of the glory of God, <br/>
+and **fall short** of the glory of God,
+
 and are **justified** by his grace as a **gift**, <br/>
 through the **redemption** that is in Christ Jesus
 
