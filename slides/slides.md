@@ -35,7 +35,7 @@
 + Did God create **evil**?
 
 ---
-## Created State of Man
+## Original State of Man
 God saw **everything** that he had made, <br/>
 and behold, it was **very good**.
 
@@ -47,7 +47,7 @@ Genesis 1:31a (ESV)
 + that includes **man**!
 
 ---
-## Created in the Image of God
+## In the Image of God
 So God **created** man in his own image, <br/>
 in the **image of God** he created him; <br/>
 **male and female** he created them.
@@ -151,7 +151,7 @@ Genesis 3:4 (ESV)
   + Doesn't **affect** us, right?
 
 ---
-## Death Came Through Sin
+## Death Through Sin
 Therefore, just as **sin** came into the world  <br/>
 through **one man**, and **death** through sin,  <br/>
 and so death spread to **all men** <br/>
@@ -181,7 +181,7 @@ Romans 3:23 (ESV)
 + but all **creation**:
 
 ---
-## All Creation in Bondage
+## Creation in Bondage
 For the **creation** was subjected to **futility**, ...
 
 in hope that the creation itself  <br/>
@@ -222,7 +222,7 @@ Romans 8:20-21 (ESV)
 + What was God's **plan** to redeem us?
 
 ---
-## God's Plan of Redemption
+## Plan of Redemption
 For God **so loved** the world, <br/>
 that he **gave** his only Son, <br/>
 that whoever **believes** in him <br/>
@@ -238,7 +238,7 @@ John 3:16 (ESV)
 + forgiveness requires **sacrifice**
 
 ---
-## God's Promise to Adam &amp; Eve
+## Promise to Adam &amp; Eve
 And I will put **enmity** <br/>
 Between you and the woman, <br/>
 And between **your seed** and **her seed**;
@@ -331,7 +331,7 @@ Galatians 3:24-26 (ESV)
 1. Redemption: through *Christ*
 
 ---
-## Jesus Fulfils OT Prophecy
+## Jesus Fulfils Prophecy
 Everything **written** about me  <br/>
 in the **Law** of Moses and the **Prophets** <br/>
 and the **Psalms** must be fulfilled.
@@ -452,7 +452,7 @@ Hebrews 10:14 (ESV)
   1. *Grace* for All
 
 ---
-## The Redeemer’s Threefold Office
+## The Redeemer’s Three-fold Office
 1. **Prophet**:
   The Lord your God will raise up
   for you a *prophet* like me, ... you shall *listen* to him
@@ -485,7 +485,7 @@ John 14:26 (NIV)
 + **Peace** I leave with you
 
 ---
-## Dedication of Our Bodies
+## Dedicate Our Bodies
 Do you not know that your **body** is <br/>
 a **temple** of the **Holy Spirit** who is in you, <br/>
 whom you have from **God**, <br/>
@@ -512,7 +512,7 @@ and that you are **not your own**?
 + Does God **want** all to be saved?
 
 ---
-## God Desires All To Be Saved
+## God's Desire
 [God] desires **all** men to be **saved** <br/>
 and to come to the **knowledge** of the truth.
 
