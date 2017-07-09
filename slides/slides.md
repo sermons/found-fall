@@ -369,6 +369,42 @@ Apostle's Creed, ~390 AD (excerpt)
 + imminent **return** as righteous Judge
 
 ---
+All we like sheep have gone **astray**; <br/>
+we have turned — every one — to his **own way**;
+
+and the Lord has **laid on him** <br/>
+the **iniquity** of us all.
+
+<div class="caption">
+Isaiah 53:6 (ESV)
+</div>
+
+>>>
++ state of mankind: **sinful**
+  + **unable** to rescue selves
++ not just **doing** "bad things":
+  + turn to **own** way
+  + rather than **God's** way
++ **attributed** to Christ
+  + paid **penalty** on our behalf
+
+---
+*Q.90*: What is the real **significance** of the death of the Lord?
+
+*A*: For by a single **offering** <br/>
+he **has perfected** for all time <br/>
+those who **are being sanctified**.
+<span class="ref">(Heb 10:14, ESV)</span>
+
+>>>
++ Single, **point-in-time** sacrifice
++ Has **finished** work of **justification**
+  + perfected (τετελείωκεν): complete, end
+  + deemed **righteous** before God
++ Still in **process** of **sanctification**
+  + being made holy (ἁγιαζομένους)
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 ## Wk 2: Fall &amp; Redemption
 1. The *Fall* of Man
