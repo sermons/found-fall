@@ -31,7 +31,7 @@
 
 >>>
 + Fall
-+ Divine Plan
++ Divine Plan: promise, principle, prophecy
 + How Christ Fulfilled the Plan
 + Our world is full of **evil**
   + Did God **purposely** make it so?
@@ -224,7 +224,7 @@ Romans 8:20-21 (ESV)
 1. The *Fall* of Man
 1. **Redemption: God's Plan**
   1. The **Promise** to Adam
-  1. The *Law* as Tutor
+  1. *Principles*: The Law as Tutor
   1. The *Prophecies* of the Christ
 1. Redemption: through *Christ*
 
@@ -272,7 +272,7 @@ Genesis 3:15 (NASB)
 1. The *Fall* of Man
 1. Redemption: God's *Plan*
   1. The *Promise* to Adam
-  1. **The Law as Tutor**
+  1. **Principles: The Law as Tutor**
   1. The *Prophecies* of the Christ
 1. Redemption: through *Christ*
 
@@ -341,7 +341,7 @@ Galatians 3:24-26 (ESV)
 1. The *Fall* of Man
 1. Redemption: God's *Plan*
   1. The *Promise* to Adam
-  1. The *Law* as Tutor
+  1. Principles: The *Law* as Tutor
   1. **The Prophecies of the Christ**
 1. Redemption: through *Christ*
 
