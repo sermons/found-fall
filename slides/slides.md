@@ -117,7 +117,7 @@ Genesis 3:1 (ESV)
 For **God knows** that when you eat of it <br/>
 your **eyes** will be opened, <br/>
 and you will be **like God**, <br/>
-knowing good and evil."
+**knowing** good and evil."
 
 <div class="caption">
 Genesis 3:4 (ESV)
@@ -174,9 +174,11 @@ Romans 3:23 (ESV)
 + but all **creation**:
 
 ---
-For the **creation** was subjected to **futility**, ... <br/>
+For the **creation** was subjected to **futility**, ...
+
 in hope that the creation itself  <br/>
-will be set free from its **bondage** to **corruption** <br/>
+will be set free from its **bondage** to **corruption**
+
 and obtain the **freedom** <br/>
 of the glory of the **children of God**.
 
@@ -201,7 +203,7 @@ Romans 8:20-21 (ESV)
 ## Wk 2: Fall &amp; Redemption
 1. The *Fall* of Man
 1. **Redemption: God's Plan**
-  1. The *Promise* to Adam
+  1. The **Promise** to Adam
   1. The *Law* as Tutor
   1. The *Prophecies* of the Christ
 1. Redemption: through *Christ*
@@ -250,21 +252,23 @@ Genesis 3:15 (NASB)
   1. The *Prophecies* of the Christ
 1. Redemption: through *Christ*
 
+>>>
++ catechism: **school master**
+
 ---
 1. You shall have **no other gods** before me
-1. You shall not make for yourself a carved **image**
-1. You shall not take the **name of the LORD** your God in vain
+1. Not make for yourself a carved **image**
+1. Not take the **name** of the **LORD** in vain
 1. Remember the **Sabbath day**, to keep it holy
 1. Honor your **father** and your **mother**
 1. You shall not **murder**
 1. You shall not commit **adultery**
 1. You shall not **steal**
-1. You shall not bear **false witness** against your neighbor
-1. You shall not **covet** ... anything that is your neighbor's
+1. Not bear **false witness** against your neighbor
+1. Not **covet** ... anything that is your neighbor's
 
 ---
-For the **whole law** is fulfilled in **one word**:
-
+For the **whole law** is fulfilled in **one word**: <br/>
 “You shall **love your neighbor** as yourself.”
 
 <div class="caption">
@@ -276,8 +280,10 @@ The **law** was our **guardian** until Christ came, <br/>
 in order that we might be justified by faith.
 
 But now that **faith** has come, <br/>
-we are **no longer** under a guardian, <br/>
-for in **Christ Jesus** you are all **sons of God**, through faith
+we are **no longer** under a guardian,
+
+for in **Christ Jesus** <br/>
+you are all **sons of God**, through faith
 
 <div class="caption">
 Galatians 3:24-26 (ESV)
@@ -307,7 +313,13 @@ Luke 24:44 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# What in the **Old Testament** points to redemption in **Christ**?
+# How does <br/> the **Old Testament** point to **Christ**?
+
+>>>
++ reveal God's **plan** of redemption
++ **promises** to Adam and the patriarchs
++ **law** as a tutor leading us to faith
++ **prophecies** / predictions
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
@@ -315,7 +327,7 @@ Luke 24:44 (ESV)
 1. The *Fall* of Man
 1. Redemption: God's *Plan*
 1. **Redemption: through Christ**
-  1. The *Life* of Jesus
+  1. The **Life** of Jesus
   1. The *Redeemer* and the *Holy Spirit*
   1. *Grace* for All
 
