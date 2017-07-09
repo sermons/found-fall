@@ -30,6 +30,9 @@
 1. Redemption: through **Christ**
 
 >>>
++ Fall
++ Divine Plan
++ How Christ Fulfilled the Plan
 + Our world is full of **evil**
   + Did God **purposely** make it so?
 + Did God create **evil**?
