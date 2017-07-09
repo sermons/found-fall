@@ -204,7 +204,8 @@ Romans 8:20-21 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# What is the **nature** of mankind?
+# Good? Evil?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
