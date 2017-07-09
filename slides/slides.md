@@ -14,8 +14,6 @@
 1. **Fall** (who *we* are) <span class="ref">(wk 2)</span>
 1. **Redemption** (how we are *saved*)
   1. Divine **Provision** <span class="ref">(wk 2)</span>
-    + God's **Plan** of Redemption
-    + Redemption through **Christ**
   1. Human **Response**
     + **Faith** in Christ <span class="ref">(wk 3)</span>
     + **Life** and Conduct <span class="ref">(wk 4)</span>
@@ -25,18 +23,18 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 ## Wk 2: Fall &amp; Redemption
 1. The **Fall** of Man
-1. **Redemption**: Divine Provision
-  1. God's **Plan** of Redemption
-    + The Promise to Adam
-    + The Law as Tutor
-    + Prophecies of the Christ
-  1. Redemption through **Christ**
-    + The Life of Jesus
-    + The Redeemer and the Holy Spirit
-    + Grace for All
+1. Redemption: God's **Plan**
+  1. The *Promise* to Adam
+  1. The *Law* as Tutor
+  1. The *Prophecies* of the Christ
+1. Redemption: through **Christ**
+  1. The *Life* of Jesus
+  1. The *Redeemer* and the *Holy Spirit*
+  1. *Grace* for All
 
 ---
-## The Fall of Man
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+## 1. The Fall of Man
 1. **Prior** to the Fall
 1. The **Fall** of Man
 1. **Results** of the Fall
@@ -71,7 +69,8 @@ Genesis 1:27 (ESV)
   + not **evolved** animal
 
 ---
-## The Fall of Man
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+## 1. The Fall of Man
 1. Prior to the Fall
 1. **The Fall of Man**
 1. Results of the Fall
@@ -105,7 +104,7 @@ Genesis 2:16-17 (ESV)
 + How did **Satan** distort this?
 
 ---
-"Did God **actually** say,
+"Did God **actually** say, <br/>
 ‘You shall not eat of any tree in the garden’?"
 
 <div class="caption">
@@ -124,7 +123,8 @@ Genesis 3:1 (ESV)
 
 For **God knows** that when you eat of it <br/>
 your **eyes** will be opened, <br/>
-and you will be **like God**, knowing good and evil."
+and you will be **like God**, <br/>
+knowing good and evil."
 
 <div class="caption">
 Genesis 3:4 (ESV)
@@ -139,7 +139,8 @@ Genesis 3:4 (ESV)
 + like God: **usurp** God's authority
 
 ---
-## The Fall of Man
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+## 1. The Fall of Man
 1. Prior to the Fall
 1. The Fall of Man
 1. **Results of the Fall**
@@ -151,7 +152,8 @@ Genesis 3:4 (ESV)
 ---
 Therefore, just as **sin** came into the world  <br/>
 through **one man**, and **death** through sin,  <br/>
-and so death spread to **all men** because **all sinned**
+and so death spread to **all men** <br/>
+because **all sinned**
 
 <div class="caption">
 Romans 5:12 (ESV)
@@ -164,20 +166,23 @@ Romans 5:12 (ESV)
   + but **falling short** of God's holiness:
 
 ---
-For all have **sinned** and **fall short** of the glory of God, <br/>
-and are **justified** by his grace as a **gift**, <br/>
-through the **redemption** that is in Christ Jesus
+For all have **sinned** <br/>
+and **fall short** of the glory of God
 
 <div class="caption">
-Romans 3:23-24 (ESV)
+Romans 3:23 (ESV)
 </div>
 
+>>>
++ **sin** affects not just **people**
++ but all **creation**:
+
 ---
-For the **creation** was subjected to **futility**,  <br/>
-not willingly, but because of him who **subjected** it, <br/>
+For the **creation** was subjected to **futility**, ... <br/>
 in hope that the creation itself  <br/>
-will be set free from its **bondage to corruption**  <br/>
-and obtain the **freedom** of the glory of the **children of God**.
+will be set free from its **bondage** to **corruption** <br/>
+and obtain the **freedom** <br/>
+of the glory of the **children of God**.
 
 <div class="caption">
 Romans 8:20-21 (ESV)
@@ -196,20 +201,81 @@ Romans 8:20-21 (ESV)
 # Q1
 
 ---
-## Outline: Plan
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+## Wk 2: Fall &amp; Redemption
+1. The Fall of Man
+1. **Redemption: God's Plan**
+  1. The *Promise* to Adam
+  1. The *Law* as Tutor
+  1. The *Prophecies* of the Christ
+1. Redemption: through Christ
+  1. The Life of Jesus
+  1. The Redeemer and the Holy Spirit
+  1. Grace for All
 
 >>>
-Chapter 1. God’s Plan of Redemption
-I. The Promise to Adam and the Patriarchs
-II.  The Law as a SchoolMaster unto Christ
-III. Predictions Concerning Christ
++ Did man's **fall** catch God by **surprise**?
++ What was God's **plan** to redeem us?
+
+---
+For God **so loved** the world, <br/>
+that he **gave** his only Son, <br/>
+that whoever **believes** in him <br/>
+should not **perish** but have eternal **life**.
+
+<div class="caption">
+John 3:16 (ESV)
+</div>
+
+>>>
++ so loved: not how **much**
+  + but in this **manner**
++ forgiveness requires **sacrifice**
+
+---
+And I will put **enmity** <br/>
+Between you and the woman, <br/>
+And between **your seed** and **her seed**;
+
+He shall bruise you on the **head**, <br/>
+And you shall bruise him on the **heel**.
+
+<div class="caption">
+Genesis 3:15 (NASB)
+</div>
+
+>>>
++ God's plan in motion even in Gen
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+## Wk 2: Fall &amp; Redemption
+1. The Fall of Man
+1. Redemption: God's Plan
+  1. The Promise to Adam
+  1. **The Law as Tutor**
+  1. The *Prophecies* of the Christ
+1. Redemption: through Christ
+  1. The Life of Jesus
+  1. The Redeemer and the Holy Spirit
+  1. Grace for All
 
 ---
 <!-- .slide: data-background="white" -->
 # Q2
 
 ---
-## Outline: Christ
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+## Wk 2: Fall &amp; Redemption
+1. The **Fall** of Man
+1. Redemption: God's **Plan**
+  1. The *Promise* to Adam
+  1. The *Law* as Tutor
+  1. The *Prophecies* of the Christ
+1. Redemption: through **Christ**
+  1. The *Life* of Jesus
+  1. The *Redeemer* and the *Holy Spirit*
+  1. *Grace* for All
 
 >>>
 Chapter 2.  Redemption through Christ
@@ -227,7 +293,8 @@ VII. Grace for All
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
-For all have **sinned** and **fall short** of the glory of God, <br/>
+For all have **sinned** <br/>
+and **fall short** of the glory of God, <br/>
 and are **justified** by his grace as a **gift**, <br/>
 through the **redemption** that is in Christ Jesus
 
