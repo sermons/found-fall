@@ -38,7 +38,7 @@
 God saw **everything** that he had made, <br/>
 and behold, it was **very good**.
 
-<div class="caption">
+<div class="ref">
 Genesis 1:31a (ESV)
 </div>
 
@@ -50,7 +50,7 @@ So God **created** man in his own image, <br/>
 in the **image of God** he created him; <br/>
 **male and female** he created them.
 
-<div class="caption">
+<div class="ref">
 Genesis 1:27 (ESV)
 </div>
 
@@ -81,7 +81,7 @@ of **good and evil** you shall not eat,
 for in the day that you **eat** of it <br/>
 you shall surely **die**.
 
-<div class="caption">
+<div class="ref">
 Genesis 2:16-17 (ESV)
 </div>
 
@@ -100,7 +100,7 @@ Genesis 2:16-17 (ESV)
 "Did God **actually** say, <br/>
 ‘You shall not eat of any tree in the garden’?"
 
-<div class="caption">
+<div class="ref">
 Genesis 3:1 (ESV)
 </div>
 
@@ -119,7 +119,7 @@ your **eyes** will be opened, <br/>
 and you will be **like God**, <br/>
 **knowing** good and evil."
 
-<div class="caption">
+<div class="ref">
 Genesis 3:4 (ESV)
 </div>
 
@@ -151,7 +151,7 @@ through **one man**, and **death** through sin,  <br/>
 and so death spread to **all men** <br/>
 because **all sinned**
 
-<div class="caption">
+<div class="ref">
 Romans 5:12 (ESV)
 </div>
 
@@ -165,7 +165,7 @@ Romans 5:12 (ESV)
 For all have **sinned** <br/>
 and **fall short** of the glory of God
 
-<div class="caption">
+<div class="ref">
 Romans 3:23 (ESV)
 </div>
 
@@ -182,7 +182,7 @@ will be set free from its **bondage** to **corruption**
 and obtain the **freedom** <br/>
 of the glory of the **children of God**.
 
-<div class="caption">
+<div class="ref">
 Romans 8:20-21 (ESV)
 </div>
 
@@ -218,7 +218,7 @@ that he **gave** his only Son, <br/>
 that whoever **believes** in him <br/>
 should not **perish** but have eternal **life**.
 
-<div class="caption">
+<div class="ref">
 John 3:16 (ESV)
 </div>
 
@@ -235,7 +235,7 @@ And between **your seed** and **her seed**;
 He shall bruise you on the **head**, <br/>
 And you shall bruise him on the **heel**.
 
-<div class="caption">
+<div class="ref">
 Genesis 3:15 (NASB)
 </div>
 
@@ -271,7 +271,7 @@ Genesis 3:15 (NASB)
 For the **whole law** is fulfilled in **one word**: <br/>
 “You shall **love your neighbor** as yourself.”
 
-<div class="caption">
+<div class="ref">
 Galatians 5:14 (ESV)
 </div>
 
@@ -285,7 +285,7 @@ we are **no longer** under a guardian,
 for in **Christ Jesus** <br/>
 you are all **sons of God**, through faith
 
-<div class="caption">
+<div class="ref">
 Galatians 3:24-26 (ESV)
 </div>
 
@@ -304,7 +304,7 @@ Everything **written** about me  <br/>
 in the **Law** of Moses and the **Prophets** <br/>
 and the **Psalms** must be fulfilled.
 
-<div class="caption">
+<div class="ref">
 Luke 24:44 (ESV)
 </div>
 
@@ -355,7 +355,7 @@ he **ascended** into heaven, <br/>
 he is **seated** at the right hand of the Father, <br/>
 and he will come to **judge** the living and the dead.
 
-<div class="caption">
+<div class="ref">
 Apostle's Creed, ~390 AD (excerpt)
 </div>
 
@@ -375,7 +375,7 @@ we have turned — every one — to his **own way**;
 and the Lord has **laid on him** <br/>
 the **iniquity** of us all.
 
-<div class="caption">
+<div class="ref">
 Isaiah 53:6 (ESV)
 </div>
 
@@ -389,12 +389,16 @@ Isaiah 53:6 (ESV)
   + paid **penalty** on our behalf
 
 ---
-*Q.90*: What is the real **significance** of the death of the Lord?
+*Q.90*: What is the real **significance** <br/>
+of the death of the Lord?
 
 *A*: For by a single **offering** <br/>
 he **has perfected** for all time <br/>
 those who **are being sanctified**.
-<span class="ref">(Heb 10:14, ESV)</span>
+
+<div class="ref">
+Hebrews 10:14 (ESV)
+</div>
 
 >>>
 + Single, **point-in-time** sacrifice
@@ -414,9 +418,52 @@ those who **are being sanctified**.
   1. **The Redeemer and the Holy Spirit**
   1. *Grace* for All
 
+---
+## The Redeemer’s Threefold Office
+1. **Prophet**:
+  The Lord your God will raise up
+  for you a *prophet* like me, ... you shall *listen* to him
+  <span class="ref">(Dt 18:15, ESV)</span>
+1. **High Priest**:
+  Since we have a *great priest*
+  over the house of God, let us *draw near*
+  <span class="ref">(Heb 10:21-22, ESV)</span>
+1. **King**:
+  He will *reign* as king and act *wisely*
+  And do *justice* and *righteousness* in the land
+  <span class="ref">(Jer 23:5, NASB)</span>
+
+---
+## Sending the Holy Spirit
+The **Advocate**, the Holy Spirit, <br/>
+whom the **Father** will send in **my name**,
+
+will **teach** you all things <br/>
+and will **remind** you of everything I have said to you
+
+<div class="ref">
+John 14:26 (NIV)
+</div>
+
 >>>
-V. The Redeemer’s Threefold Office
-VI. The Sending of the Holy Spirit
++ **work** of HS in us: teach, remind
+  + Advocate: help, encourage, comfort
+  + also **conviction** of sin (Jn16:8)
++ **Peace** I leave with you
+
+---
+## Dedication of Our Bodies
+Do you not know that your **body** is <br/>
+a **temple** of the **Holy Spirit** who is in you, <br/>
+whom you have from **God**, <br/>
+and that you are **not your own**?
+
+<div class="ref">
+1 Corinthians 6:19 (NASB)
+</div>
+
+>>>
++ affects how we view selves
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
@@ -427,6 +474,41 @@ VI. The Sending of the Holy Spirit
   1. The *Life* of Jesus
   1. The *Redeemer* and the *Holy Spirit*
   1. **Grace for All**
+
+>>>
++ Does God **want** all to be saved?
+
+---
+## God Desires All To Be Saved
+[God] desires **all** men to be **saved** <br/>
+and to come to the **knowledge** of the truth.
+
+For there is **one God**,  <br/>
+and **one mediator** also between God and men,  <br/>
+the man **Christ Jesus**, <br/>
+who gave Himself as a **ransom for all**
+
+<div class="ref">
+1 Timothy 2:4-6 (NASB)
+</div>
+
+>>>
++ wants **all** to be saved
++ but **only** way is through **Christ**
+  + only **ransom** for all
+
+---
+## Turn and Live
+Have I any **pleasure** in the **death** of the wicked, <br/>
+declares the LORD God,  <br/>
+and not rather that he should **turn** from his way and **live**?
+
+<div class="ref">
+Ezekiel 18:23 (ESV)
+</div>
+
+>>>
++ prerequisite: **repent**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -440,7 +522,7 @@ and **fall short** of the glory of God,
 and are **justified** by his grace as a **gift**, <br/>
 through the **redemption** that is in Christ Jesus
 
-<div class="caption">
+<div class="ref">
 Romans 3:23-24 (ESV)
 </div>
 
