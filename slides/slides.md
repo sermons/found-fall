@@ -188,6 +188,7 @@ Romans 3:23 (ESV)
 + but all **creation**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 ## Creation in Bondage
 For the **creation** was subjected to **futility**, ...
 
@@ -229,6 +230,7 @@ Romans 8:20-21 (ESV)
 + What was God's **plan** to redeem us?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 ## Plan of Redemption
 For God **so loved** the world, <br/>
 that he **gave** his only Son, <br/>
@@ -245,6 +247,7 @@ John 3:16 (ESV)
 + forgiveness requires **sacrifice**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
 ## Promise to Adam &amp; Eve
 And I will put **enmity** <br/>
 Between you and the woman, <br/>
@@ -292,6 +295,7 @@ Genesis 3:15 (NASB)
   + Love **neighbour**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
 ## Summary of the Law
 For the **whole law** is fulfilled in **one word**: <br/>
 “You shall **love your neighbor** as yourself.”
@@ -307,6 +311,7 @@ Galatians 5:14 (ESV)
 + Following the **law** cannot **save** us:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
 ## The Law as Tutor
 The **law** was our **guardian** until Christ came, <br/>
 in order that we might be **justified** by faith.
@@ -338,6 +343,7 @@ Galatians 3:24-26 (ESV)
 1. Redemption: through *Christ*
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
 ## Jesus Fulfils Prophecy
 Everything **written** about me  <br/>
 in the **Law** of Moses and the **Prophets** <br/>
@@ -408,6 +414,7 @@ Apostle's Creed, ~390 AD (excerpt)
 + imminent **return** as righteous Judge
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-aJvSX36kweg-lamb.jpg" -->
 ## Christ Our Propitiation
 All we like sheep have gone **astray**; <br/>
 we have turned — every one — to his **own way**;
@@ -429,6 +436,7 @@ Isaiah 53:6 (ESV)
   + paid **penalty** on our behalf
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 *Q.90*: What is the real **significance** <br/>
 of the death of the Lord?
 
@@ -474,6 +482,7 @@ Hebrews 10:14 (ESV)
   <span class="ref">(Jer 23:5)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3sR_0NhWMEI-water_ocean_calm.jpg" -->
 ## Sending the Holy Spirit
 The **Advocate**, the Holy Spirit, <br/>
 whom the **Father** will send in **my name**,
@@ -493,6 +502,7 @@ John 14:26 (NIV)
 + **Peace** I leave with you
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cgPxN5Y27pA-cathedral.jpg" -->
 ## Dedicate Our Bodies
 Do you not know that your **body** is <br/>
 a **temple** of the **Holy Spirit** who is in you, <br/>
@@ -520,6 +530,7 @@ and that you are **not your own**?
 + Does God **want** all to be saved?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
 ## God's Desire
 [God] desires **all** men to be **saved** <br/>
 and to come to the **knowledge** of the truth.
@@ -540,6 +551,7 @@ who gave Himself as a **ransom for all**
   + only **ransom** for all
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
 ## Turn and Live
 Have I any **pleasure** in the **death** of the wicked, <br/>
 declares the LORD God,  <br/>
