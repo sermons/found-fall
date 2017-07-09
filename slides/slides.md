@@ -278,6 +278,12 @@ Genesis 3:15 (NASB)
 1. Not bear **false witness** against your neighbor
 1. Not **covet** ... anything that is your neighbor's
 
+>>>
++ Plus many **more** rules in Law of Moses!
++ But all are **subsumed** under:
+  + Love **God** with all your heart
+  + Love **neighbour**:
+
 ---
 ## Summary of the Law
 For the **whole law** is fulfilled in **one word**: <br/>
@@ -286,6 +292,12 @@ For the **whole law** is fulfilled in **one word**: <br/>
 <div class="ref">
 Galatians 5:14 (ESV)
 </div>
+
+>>>
++ Law is **impossible** to satisfy
++ Can control **external** behaviour
+  + But cannot tame the **heart**
++ Following the **law** cannot **save** us:
 
 ---
 ## The Law as Tutor
@@ -301,6 +313,12 @@ you are all **sons of God**, through faith
 <div class="ref">
 Galatians 3:24-26 (ESV)
 </div>
+
+>>>
++ Actually, law only **highlights** our sinful nature:
+  + sin **springs** to life and **kills** us
++ Shows us why we need a **Saviour**
+  + can only be saved by **faith**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
