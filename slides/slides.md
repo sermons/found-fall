@@ -336,7 +336,7 @@ Galatians 3:24-26 (ESV)
 1. Redemption: through *Christ*
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
 ## Jesus Fulfils Prophecy
 Everything **written** about me  <br/>
 in the **Law** of Moses and the **Prophets** <br/>
@@ -475,7 +475,7 @@ Hebrews 10:14 (ESV)
   <span class="ref">(Jer 23:5)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3sR_0NhWMEI-water_ocean_calm.jpg" -->
 ## Sending the Holy Spirit
 The **Advocate**, the Holy Spirit, <br/>
 whom the **Father** will send in **my name**,
