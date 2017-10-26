@@ -3,7 +3,7 @@
 
 [![Build status](https://travis-ci.org/sermons/found-fall.svg)](https://travis-ci.org/sermons/found-fall)
 [![Node deps](https://david-dm.org/sermons/found-fall.svg)](https://david-dm.org/sermons/found-fall)
-[![Node devDeps](https://david-dm.org/sermons/found-fall/dev-status.svg)](https://david-dm.org/sermons/found-fall#info=devDependencies)
+[![Node devDeps](https://david-dm.org/sermons/found-fall/dev-status.svg)](https://david-dm.org/sermons/found-fall?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
