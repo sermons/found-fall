@@ -1,7 +1,7 @@
 # One Foundation: The Fall and the Plan of Redemption (2/5)
 ## Romans 3:23-24
 
-[![Build status](https://travis-ci.org/sermons/found-fall.svg)](https://travis-ci.org/sermons/found-fall)
+[![Build status](https://api.travis-ci.com/sermons/found-fall.svg)](https://travis-ci.com/github/sermons/found-fall)
 [![Node deps](https://david-dm.org/sermons/found-fall.svg)](https://david-dm.org/sermons/found-fall)
 [![Node devDeps](https://david-dm.org/sermons/found-fall/dev-status.svg)](https://david-dm.org/sermons/found-fall?type=dev)
 
